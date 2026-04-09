@@ -1,4 +1,4 @@
 import modul
 
-print('Hello YES!')
+print('Hello YES SIR!')
 modul.functie()
