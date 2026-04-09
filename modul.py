@@ -1,1 +1,3 @@
-print('modul')
+
+def functie():
+    print('modul')
