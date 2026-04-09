@@ -1,4 +1,4 @@
 import modul
 
-print('Hello git!')
+print('Hello GIT!')
 modul.functie()
